@@ -64,11 +64,6 @@ A complete **flight delays analysis** project using Tableau Public. The goal was
 
 ---
 
-## 🔗 Live Dashboard
-
-[View on Tableau Public – flights 2](https://public.tableau.com/...)
-
----
 
 ## 📈 Skills Demonstrated
 
@@ -78,7 +73,7 @@ A complete **flight delays analysis** project using Tableau Public. The goal was
 
 ## 👩‍💻 Author
 
-**Your Name** – Data Analysis Portfolio
+**Hadeer Ghoneim** – Data Analysis Portfolio
 
 ---
 
